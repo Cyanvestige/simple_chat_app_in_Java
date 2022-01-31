@@ -3,7 +3,7 @@ Compiled in Java 1.8
 OS: Ubuntu 20.04
 Compile command: “javac –release 8 Classname.java”
 
-[](https://github.com/Cyanvestige/simple_chat_app_in_Java/blob/main/flow_chat.png?raw=true)
+![](./flow-chart.png)
 This is a User Guide on “A Simple Chat App In Java”. It does not contain much information about implementation. Please read the comments in the source code files to know more about how this system is built.
 
 This app achieves three fundamental functions of a chat app(or a SNS app):
